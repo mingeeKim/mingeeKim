@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=안녕베리🍓&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=200&section=header&text=안녕베리🍓&fontSize=50" />
 
 <!--
 **mingeeKim/mingeeKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
